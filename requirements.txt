@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+numpy
+python-dotenv
+rasterio>=1.3.9
+plotly
+pydeck
